@@ -1,0 +1,25 @@
+<UMLProfile profiletype="uml2">&amp;#13;
+	<Documentation id="CC60AC97-F" name="ArchMate 3.1" version="" notes="ArchMate 3.1"/>&amp;#13;
+	<Content>&amp;#13;
+		<Stereotypes>&amp;#13;
+			<Stereotype name="ArchiMate_ValueStream" metatype="ValueStream" notes="" cx="193" cy="70" bgcolor="15631086" fontcolor="-1" bordercolor="-1" borderwidth="1" hideicon="0">&amp;#13;
+				<Image xmlns:dt="urn:schemas-microsoft-com:datatypes" type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAGiCSz63++MALwEAACgEAAAHABEAc3RyLmRhdFVUDQAHiGFVTYhhVU2IYVVNlVJNa8JAFJxrC/4HjwqKRusX3irVo0IRzwGlBk0UE9pD6X/vvJfEZjdZtSy8XXZnZud9xNjDxxk71BHyFCDCN2p4xhM6XHW88faCOLvb4cgVkBHz3EAPA7TQZuxyf9HYZ2xi6mAMFZMzRso3Ge/EJZiTI8wZTownepDf+uS34GGie49rXGKuGKN/8WyP4kc85vmIR8nUzRhmdUgZI40mw53VQl/WqnSpRDRLOuUcTZVXvd3q2aVU7PKSrwE+tP8+0dL3I9mh/pNk2C1RPr4UkxD7ydf4OkGiXqW9ISIg7qBu8kkK6Uj4CfcGO+Pp/BQrJvWNroh2NmtS4T+MrSJ1l8lyq6S9NTG2ingZPOBFZtnO2dQac+Ju5+U9kNekwrOtcj+v1MutvHIvxbx+NP4CUEsBAhcLFAAAAAgAaIJLPrf74wAvAQAAKAQAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAB4hhVU1QSwUGAAAAAAEAAQA+AAAAZQEAAAAA</Image>&amp;#13;
+				<AppliesTo>&amp;#13;
+					<Apply type="Activity">&amp;#13;
+						<Property name="isReadOnly" value="false"/>&amp;#13;
+						<Property name="isSingleExecution" value=""/>&amp;#13;
+						<Property name="parameterName" value=""/>&amp;#13;
+						<Property name="postcondition" value=""/>&amp;#13;
+						<Property name="precondition" value=""/>&amp;#13;
+					</Apply>&amp;#13;
+					<Apply type="Class">&amp;#13;
+						<Property name="isActive" value=""/>&amp;#13;
+					</Apply>&amp;#13;
+				</AppliesTo>&amp;#13;
+			</Stereotype>&amp;#13;
+		</Stereotypes>&amp;#13;
+		<TaggedValueTypes/>&amp;#13;
+		<ViewDefinitions/>&amp;#13;
+		<Metamodel/>&amp;#13;
+	</Content>&amp;#13;
+</UMLProfile>
